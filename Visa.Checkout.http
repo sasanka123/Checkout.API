@@ -1,0 +1,6 @@
+@Visa.Checkout_HostAddress = http://localhost:5008
+
+GET {{Visa.Checkout_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
